@@ -16,7 +16,7 @@
 ---
 
 # 👩‍💻 Hi, I'm Ruchika Borkar!  
-🎓 AI & Data Science Enthusiast | 🌱 Lifelong Learner | 💡 Exploring AI for Real-World Applications  
+🎓 AI/ML & Data Science Enthusiast | 🌱 Lifelong Learner | 💡 Exploring AI for Real-World Applications  
 
 ---
 
@@ -25,7 +25,6 @@
 - 🌱 Learning **Deep Learning, Blockchain, and AI-powered Systems**  
 - 🎯 Goal: To build AI solutions for **sustainability, surveillance, and automation**  
 - 💬 Ask me about **Python, Data Visualization, Machine Learning**  
-- 📫 Reach me at: [ruchikaborkar2306@gmail.com](mailto:ruchikaborkar2306@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ruchika-borkar-b55329256/)  
 
 ---
 
@@ -44,8 +43,3 @@
 
 ---
 
-## 🏆 Certifications  
-- 🎖️ IIT Kharagpur – **AI4ICPS Certificate Programme**  
-- 🎖️ (Add others if you like, e.g., Coursera, Kaggle, etc.)  
-
----
